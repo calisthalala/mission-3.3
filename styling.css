@@ -1,0 +1,891 @@
+/* mobile navbar */
+@media screen and (max-width: 360px) {
+    .navbar {        
+        width: 100%;
+        height: 180px;
+        margin-inline-end: auto;
+        background-color: white;          
+    }
+
+    .fot_mob-1 {
+        position: absolute;
+        left: -5px;
+        top: -1px;
+    }
+
+    .kosong_mob {
+        width: 361px;
+        height: 2px;
+        background-color: rgba(231, 230, 230, 0.868);
+        position: absolute;
+        left: -1px;
+        top: 100px;        
+        list-style: none;
+    }
+
+    .vidblajar_mob {
+        color: rgba(255, 189, 58, 1);
+        font-size: 25px;  
+        font-family: Arial, Helvetica, sans-serif;
+        position: absolute;  
+        left: 30px;
+        top: 125px;
+        list-style: none;
+        display: block;
+    }
+
+    .fot_mob-2 {
+        position: absolute;
+        left: 300px;
+        top: 124px; 
+        display: block;       
+    }
+
+/* sluruh bawah */
+    .kosong_mob-1 {
+    background-color: rgba(255, 253, 243, 1);    
+    width: 100%;
+    height: 2950px;
+    position: absolute;
+    top: 180px;
+    box-shadow: -1px 15px 10px rgba(220, 220, 220, 0.808) inset;
+    display: block; 
+    }
+
+}
+
+
+
+/* page 1 */
+
+@media screen and (max-width: 360px) {
+    .fot_mob-3 {
+        position: absolute;
+        left: 20px;
+        top: 210px;
+        border-radius: 10px; 
+        display: block;       
+    }
+
+    .koleksi-mob {
+        color: black;
+        font-size: 25px;  
+        font-family: Arial, Helvetica, sans-serif;
+        position: absolute;  
+        left: 20px;
+        top: 633px;
+        list-style: none;
+        display: block;
+    }
+
+    .jelajahi-mob {
+        color: rgba(51, 51, 51, 0.68);
+        font-size: 14px;  
+        font-family: Arial, Helvetica, sans-serif;
+        position: absolute;  
+        left: 20px;
+        top: 710px;
+        list-style: none;
+        display: block;
+    }
+
+    .semua-mob {
+        color: rgba(246, 73, 32, 1);
+        font-size: 13px;  
+        font-family: Arial, Helvetica, sans-serif;
+        position: absolute;  
+        left: 20px;
+        top: 780px;
+        list-style: none;
+        display: block;
+    }
+
+    .pemasaran-mob {
+        color: rgba(51, 51, 51, 0.68);
+        font-size: 13px;  
+        font-family: Arial, Helvetica, sans-serif;
+        position: absolute;  
+        left: 135px;
+        top: 780px;
+        list-style: none;
+        display: block;
+    }
+
+    .desain-mob {
+        color: rgba(51, 51, 51, 0.68);
+        font-size: 13px;  
+        font-family: Arial, Helvetica, sans-serif;
+        position: absolute;  
+        left: 245px;
+        top: 780px;
+        list-style: none;
+        display: block;
+    }
+
+    .pen-mob {
+        color: rgba(51, 51, 51, 0.68);
+        font-size: 13px;  
+        font-family: Arial, Helvetica, sans-serif;
+        position: absolute;  
+        left: 335px;
+        top: 780px;
+        list-style: none;
+        display: block;
+    }
+
+    .kosong_mob-2 {
+        background-color: rgba(246, 73, 32, 1);
+        width: 43px;
+        height: 5px;
+        position: absolute;
+        left: 20px;
+        top: 808px;
+        list-style: none;       
+        border-radius: 10px;
+        display: block; 
+    }
+}
+
+
+/* page 2 */
+
+@media screen and (max-width: 360px) {
+
+    .no-1 {
+        position: absolute;
+        left: -1px;
+        top: 2px;
+        display: block;
+    }
+
+    .kosong_mob-3 {
+        background-color: white;
+        width: 319px;
+        height: 150px;
+        position: absolute;
+        left: 20px;
+        top: 840px;
+        list-style: none;        
+        border-radius: 10px;
+        border-style: solid;
+        border-color: rgba(230, 230, 230, 0.863);
+        display: block;
+    }
+
+    .fot_mob-4 {
+        position: absolute;
+        left: 40px;
+        top: 855px;
+        border-radius: 10px; 
+        display: block;      
+    }
+
+    .big-mob {
+        color: black;
+        font-size: 16px;  
+        font-family: Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 140px;
+        top: 855px;
+        list-style: none;        
+        white-space: nowrap;
+        display: block;
+    }
+
+    .fot_mob-5 {
+        position: absolute;
+        left: 140px;
+        top: 900px;
+        border-radius: 10px; 
+        display: block;    
+    }
+
+    .jenna-mob-1 {
+        color: black;
+        font-size: 14px;  
+        font-family: Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 190px;
+        top: 903px;
+        list-style: none;        
+        white-space: nowrap;
+        display: block;
+    }
+
+    .senior-mob-1 {
+        color: rgba(51, 51, 51, 0.68);
+        font-size: 12px;  
+        font-family: Arial, Helvetica, sans-serif;
+        position: absolute;
+        left: 190px;
+        top: 923px;
+        list-style: none;        
+        white-space: nowrap;
+        display: block;
+    }
+
+    .fot_mob-7 {
+        position: absolute;
+        left: 40px;
+        top: 950px;        
+        display: block;
+    }
+
+    .no-2 {
+        position: absolute;
+        left: -1px;
+        top: 175px;
+        display: block;
+    }
+
+    .no-3 {
+        position: absolute;
+        left: -1px;
+        top: 350px;
+        display: block;
+    }
+
+    .no-4 {
+        position: absolute;
+        left: -1px;
+        top: 525px;
+        display: block;
+    }
+
+    .no-5 {
+        position: absolute;
+        left: -1px;
+        top: 700px;
+        display: block;
+    }
+
+    .no-6 {
+        position: absolute;
+        left: -1px;
+        top: 875px;
+        display: block;
+    }
+
+    .no-7 {
+        position: absolute;
+        left: -1px;
+        top: 1050px;
+        display: block;
+    }
+
+    .no-8 {
+        position: absolute;
+        left: -1px;
+        top: 1225px;
+        display: block;
+    }
+
+    .no-9 {
+        position: absolute;
+        left: -1px;
+        top: 1400px;
+        display: block;
+    }
+}
+
+/* page 3 */
+@media screen and (max-width: 360px) {
+
+    .fot_mob-6 {
+        position: absolute;
+        left: 20px;        
+        top: 2420px;
+        border-radius: 5px; 
+        display: block;   
+    }
+}      
+
+/* footer */
+@media screen and (max-width: 360px) {
+
+    .footer-mob {
+        background-color: white;
+        width: 100%;
+        height: 440px;
+        position: absolute;
+        top: 2860px;
+        display: block;
+    }
+
+    .kosong_mob-4 {
+        width: 361px;
+        height: 2px;
+        background-color: rgba(223, 222, 222, 0.868);
+        position: absolute;
+        left: -1px;
+        top: -2px;        
+        list-style: none;
+        display: block;
+    }
+
+    .fot_mob-8 {
+        position: absolute;
+        left: 15px;
+        top: 30px;
+        display: block;
+    }
+}
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* trash untuk mobile navbar */
+@media screen and (max-width: 360px) {
+    .vid-blajar {
+        display: none;      
+    }
+
+    .kategori {        
+        display: none;
+    }
+
+    .foto-1 {
+        display: none;
+    }
+    
+}
+
+
+/* trash untuk mobile page 1 */
+@media screen and (max-width: 360px) {        
+    .fot-3 {
+        display: none;
+    }   
+    
+    .page_1 {
+        display: none;
+    }
+
+    .koleksi {
+        display: none;
+    }
+
+    .jelajahi {
+        display: none;
+    }
+
+    .semua {
+        display: none;
+    }
+
+    .pemasaran {
+        display: none;
+    }
+
+    .desain {
+        display: none;
+    }
+
+    .pengembangan {
+        display: none;
+    }
+
+    .bisnis {
+        display: none;
+    }
+
+    .kosong {
+        display: none;
+    }
+}
+
+
+/* trash untuk page 2 */
+
+  /* baris pertama */
+@media screen and (max-width: 360px) {
+    .kosong_2 {
+        display: none;
+    }
+
+    .fot-5 {
+        display: none;
+    }
+
+    .big {
+        display: none;
+    }
+
+    .mulai {
+        display: none;
+    }
+
+    .fot-6 {
+        display: none;
+    }
+
+    .jenna {
+        display: none;
+    }
+
+    .senior {
+        display: none;
+    }
+
+    .fot-7 {
+        display: none;
+    }    
+
+
+    .kosong_3 {
+        display: none;
+    }
+
+    .fot-12 {
+        display: none;
+    }
+
+    .big-2 {
+        display: none;
+    }
+
+    .mulai-2 {
+        display: none;
+    }
+
+    .fot-9 {
+        display: none;
+    }
+
+    .jenna-2 {
+        display: none;
+    }
+
+    .senior-2 {
+        display: none;
+    }
+
+    .fot-7_2 {
+        display: none;
+    }    
+
+
+    .kosong_4 {
+        display: none;
+    }
+
+    .fot-8 {
+        display: none;
+    }
+
+    .big-3 {
+        display: none;
+    }
+
+    .mulai-3 {
+        display: none;
+    }
+
+    .fot-10 {
+        display: none;
+    }
+
+    .jenna-3 {
+        display: none;
+    }
+
+    .senior-3 {
+        display: none;
+    }
+
+    .fot-7_3 {
+        display: none;
+    } 
+    
+ /* baris kedua */
+    .kosong_5 {
+        display: none;
+    }
+
+    .fot-14 {
+        display: none;
+    }
+
+    .big-4 {
+        display: none;
+    }
+
+    .mulai-4 {
+        display: none;
+    }
+
+    .fot-13 {
+        display: none;
+    }
+
+    .jenna-4 {
+        display: none;
+    }
+
+    .senior-4 {
+        display: none;
+    }
+
+    .fot-7_4 {
+        display: none;
+    }    
+
+
+    .kosong_6 {
+        display: none;
+    }
+
+    .fot-15 {
+        display: none;
+    }
+
+    .big-5 {
+        display: none;
+    }
+
+    .mulai-5 {
+        display: none;
+    }
+
+    .fot-18 {
+        display: none;
+    }
+
+    .jenna-5 {
+        display: none;
+    }
+
+    .senior-5 {
+        display: none;
+    }
+
+    .fot-7_5 {
+        display: none;
+    } 
+
+    .kosong_7 {
+        display: none;
+    }
+
+    .fot-20 {
+        display: none;
+    }
+
+    .big-6 {
+        display: none;
+    }
+
+    .mulai-6 {
+        display: none;
+    }
+
+    .fot-21 {
+        display: none;
+    }
+
+    .jenna-6 {
+        display: none;
+    }
+
+    .senior-6 {
+        display: none;
+    }
+
+    .fot-7_6 {
+        display: none;
+    } 
+
+ /* baris ketiga */
+    .kosong_8 {
+        display: none;
+    }
+
+    .fot-22 {
+        display: none;
+    }
+
+    .big-7 {
+        display: none;
+    }
+
+    .mulai-7 {
+        display: none;
+    }
+
+    .fot-26 {
+        display: none;
+    }
+
+    .jenna-7 {
+        display: none;
+    }
+
+    .senior-7 {
+        display: none;
+    }
+
+    .fot-7_7 {
+        display: none;
+    }    
+
+
+    .kosong_9 {
+        display: none;
+    }
+
+    .fot-23 {
+        display: none;
+    }
+
+    .big-8 {
+        display: none;
+    }
+
+    .mulai-8 {
+        display: none;
+    }
+
+    .fot-25 {
+        display: none;
+    }
+
+    .jenna-8 {
+        display: none;
+    }
+
+    .senior-8 {
+        display: none;
+    }
+
+    .fot-7_8 {
+        display: none;
+    } 
+
+    .kosong_10 {
+        display: none;
+    }
+
+    .fot-27 {
+        display: none;
+    }
+
+    .big-9 {
+        display: none;
+    }
+
+    .mulai-9 {
+        display: none;
+    }
+
+    .fot-28 {
+        display: none;
+    }
+
+    .jenna-9 {
+        display: none;
+    }
+
+    .senior-9 {
+        display: none;
+    }
+
+    .fot-7_9 {
+        display: none;
+    } 
+}
+
+
+/* trash untuk page 3 */
+@media screen and (max-width: 360px) {
+    .fot-29 {
+        display: none;
+    }    
+}
+
+
+/* trash untuk footer */
+@media screen and (max-width: 360px) {
+    .footer {
+        display: none;
+    }
+
+    .fot-30 {
+        display: none;
+    }
+
+    .kacang {
+        display: none;
+    }
+
+    .fot-31 {
+        display: none;
+    }
+    
+}

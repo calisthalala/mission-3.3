@@ -1,0 +1,957 @@
+/* page utama */
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+
+/* navbar */
+
+.navbar {
+    width: 100%;
+    padding: 25px 0;
+    margin-inline-start: auto;
+    height: 50px;
+    background-color:white;
+    border-bottom-style: solid;
+    border-color: rgba(190, 190, 190, 0.32);
+}
+
+.kategori {
+    color: rgb(111, 111, 111);
+    font-size: 15px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 1050px;
+    top: 20px;
+    list-style: none;
+}
+
+.vid-blajar {
+    color: rgba(255, 189, 58, 1);
+    font-size: 21px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 90px;
+    top: 14px;
+    list-style: none;
+}
+
+
+.foto-1 {
+    position: absolute;
+    left: 1130px;
+    top: 11px;
+    border-radius: 10px;
+}
+
+/* page_1 */
+
+.page_1 {
+    width: 100%;
+    height: 2200px;
+    background-color: rgba(255, 253, 243, 1);
+}
+
+.fot-3 {
+    position: absolute;
+    left: 90px;
+    top: 100px;
+    border-radius: 10px;
+}
+
+.koleksi {
+    color: black;
+    font-size: 30px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 89px;
+    top: 510px;
+    list-style: none;
+}
+
+.jelajahi {
+    color: rgb(126, 126, 126);
+    font-size: 15px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 87px;
+    top: 555px;
+    list-style: none;
+}
+
+.semua {
+    color: rgba(246, 73, 32, 1);
+    font-size: 15px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 87px;
+    top: 620px;
+    list-style: none;
+}
+
+.pemasaran {
+    color: rgba(51, 51, 51, 0.68);
+    font-size: 15px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 210px;
+    top: 620px;
+    list-style: none;
+}
+
+.desain {
+    color: rgba(51, 51, 51, 0.68);
+    font-size: 15px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 320px;
+    top: 620px;
+    list-style: none;
+}
+
+.pengembangan {
+    color: rgba(51, 51, 51, 0.68);
+    font-size: 15px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 410px;
+    top: 620px;
+    list-style: none;
+}
+
+.bisnis {
+    color: rgba(51, 51, 51, 0.68);
+    font-size: 15px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 582px;
+    top: 620px;
+    list-style: none;
+}
+
+.kosong {
+    height: 5px;
+    width: 45px;
+    background-color: rgba(246, 73, 32, 1);
+    position: absolute;  
+    left: 87px;
+    top: 650px;
+    list-style: none;
+    border-radius: 5px;
+}
+
+/* page 2 */
+
+ /* baris pertama */
+.kosong_2 {
+    width: 280px;
+    height: 328px;
+    background-color: white;
+    position: absolute;  
+    left: 87px;
+    top: 690px;
+    list-style: none;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgba(225, 225, 225, 0.619);
+}
+
+.fot-5 {
+    position: absolute;  
+    left: 104px;
+    top: 707px;
+    border-radius: 7px;
+}
+
+.big {
+    color: black;
+    font-size: 14px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 104px;
+    top: 860px;
+    list-style: none;
+}
+
+.mulai {
+    color: rgba(51, 51, 51, 0.68);
+    font-size: 12px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 104px;
+    top: 885px;
+    list-style: none;
+}
+
+.fot-6 {
+    position: absolute;  
+    left: 104px;
+    top: 930px;
+    border-radius: 5px;
+}
+
+.jenna {
+    color: black;
+    font-size: 14px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 145px;
+    top: 930px;
+    list-style: none;
+}
+
+.senior {
+    color: rgba(51, 51, 51, 0.68);
+    font-size: 13px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 145px;
+    top: 948px;
+    list-style: none;
+}
+
+.fot-7 {
+    position: absolute;  
+    left: 104px;
+    top: 975px;
+}
+
+
+.kosong_3 {
+    width: 280px;
+    height: 328px;
+    background-color: white;
+    position: absolute;  
+    left: 410px;
+    top: 690px;
+    list-style: none;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgba(225, 225, 225, 0.619);
+}
+
+.fot-12 {
+    position: absolute;  
+    left: 427px;
+    top: 707px;
+    border-radius: 7px;
+}
+
+.big-2 {
+    color: black;
+    font-size: 14px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 427px;
+    top: 860px;
+    list-style: none;
+}
+
+.mulai-2 {
+    color: rgba(51, 51, 51, 0.68);
+    font-size: 12px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 427px;
+    top: 885px;
+    list-style: none;
+}
+
+.fot-9 {
+    position: absolute;  
+    left: 427px;
+    top: 930px;
+    border-radius: 5px;
+}
+
+.jenna-2 {
+    color: black;
+    font-size: 14px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 470px;
+    top: 930px;
+    list-style: none;
+}
+
+.senior-2 {
+    color: rgba(51, 51, 51, 0.68);
+    font-size: 13px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 470px;
+    top: 948px;
+    list-style: none;
+}
+
+.fot-7_2 {
+    position: absolute;  
+    left: 427px;
+    top: 975px;
+}
+
+
+.kosong_4 {
+    width: 280px;
+    height: 328px;
+    background-color: white;
+    position: absolute;  
+    left: 735px;
+    top: 690px;
+    list-style: none;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgba(225, 225, 225, 0.619);
+}
+
+.fot-8 {
+    position: absolute;  
+    left: 752px;
+    top: 707px;
+    border-radius: 7px;
+}
+
+.big-3 {
+    color: black;
+    font-size: 14px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 752px;
+    top: 860px;
+    list-style: none;
+}
+
+.mulai-3 {
+    color: rgba(51, 51, 51, 0.68);
+    font-size: 12px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 752px;
+    top: 885px;
+    list-style: none;
+}
+
+.fot-10 {
+    position: absolute;  
+    left: 752px;
+    top: 930px;
+    border-radius: 5px;
+}
+
+.jenna-3 {
+    color: black;
+    font-size: 14px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 795px;
+    top: 930px;
+    list-style: none;
+}
+
+.senior-3 {
+    color: rgba(51, 51, 51, 0.68);
+    font-size: 13px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 795px;
+    top: 948px;
+    list-style: none;
+}
+
+.fot-7_3 {
+    position: absolute;  
+    left: 752px;
+    top: 975px;
+}
+
+/* baris kedua */
+.kosong_5 {
+    width: 280px;
+    height: 328px;
+    background-color: white;
+    position: absolute;  
+    left: 87px;
+    top: 1045px;
+    list-style: none;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgba(225, 225, 225, 0.619);
+}
+
+.fot-14 {
+    position: absolute;  
+    left: 104px;
+    top: 1062px;
+    border-radius: 7px;
+}
+
+.big-4 {
+    color: black;
+    font-size: 14px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 104px;
+    top: 1215px;
+    list-style: none;
+}
+
+.mulai-4 {
+    color: rgba(51, 51, 51, 0.68);
+    font-size: 12px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 104px;
+    top: 1240px;
+    list-style: none;
+}
+
+.fot-13 {
+    position: absolute;  
+    left: 104px;
+    top: 1285px;
+    border-radius: 5px;
+}
+
+.jenna-4 {
+    color: black;
+    font-size: 14px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 145px;
+    top: 1285px;
+    list-style: none;
+}
+
+.senior-4 {
+    color: rgba(51, 51, 51, 0.68);
+    font-size: 13px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 145px;
+    top: 1303px;
+    list-style: none;
+}
+
+.fot-7_4 {
+    position: absolute;  
+    left: 104px;
+    top: 1330px;
+}
+
+.kosong_6 {
+    width: 280px;
+    height: 328px;
+    background-color: white;
+    position: absolute;  
+    left: 410px;
+    top: 1045px;
+    list-style: none;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgba(225, 225, 225, 0.619);
+}
+
+.fot-15 {
+    position: absolute;  
+    left: 427px;
+    top: 1062px;
+    border-radius: 7px;
+}
+
+.big-5 {
+    color: black;
+    font-size: 14px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 427px;
+    top: 1215px;
+    list-style: none;
+}
+
+.mulai-5 {
+    color: rgba(51, 51, 51, 0.68);
+    font-size: 12px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 427px;
+    top: 1240px;
+    list-style: none;
+}
+
+.fot-18 {
+    position: absolute;  
+    left: 427px;
+    top: 1285px;
+    border-radius: 5px;
+}
+
+.jenna-5 {
+    color: black;
+    font-size: 14px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 470px;
+    top: 1285px;
+    list-style: none;
+}
+
+.senior-5 {
+    color: rgba(51, 51, 51, 0.68);
+    font-size: 13px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 470px;
+    top: 1303px;
+    list-style: none;
+}
+
+.fot-7_5 {
+    position: absolute;  
+    left: 427px;
+    top: 1330px;
+}
+
+.kosong_7 {
+    width: 280px;
+    height: 328px;
+    background-color: white;
+    position: absolute;  
+    left: 735px;
+    top: 1045px;
+    list-style: none;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgba(225, 225, 225, 0.619);
+}
+
+.fot-20 {
+    position: absolute;  
+    left: 752px;
+    top: 1062px;
+    border-radius: 7px;
+}
+
+.big-6 {
+    color: black;
+    font-size: 14px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 752px;
+    top: 1215px;
+    list-style: none;
+}
+
+.mulai-6 {
+    color: rgba(51, 51, 51, 0.68);
+    font-size: 12px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 752px;
+    top: 1240px;
+    list-style: none;
+}
+
+.fot-21 {
+    position: absolute;  
+    left: 752px;
+    top: 1285px;
+    border-radius: 5px;
+}
+
+.jenna-6 {
+    color: black;
+    font-size: 14px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 795px;
+    top: 1285px;
+    list-style: none;
+}
+
+.senior-6 {
+    color: rgba(51, 51, 51, 0.68);
+    font-size: 13px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 795px;
+    top: 1303px;
+    list-style: none;
+}
+
+.fot-7_6 {
+    position: absolute;  
+    left: 752px;
+    top: 1330px;
+}
+
+
+/* baris ketiga */
+
+.kosong_8 {
+    width: 280px;
+    height: 328px;
+    background-color: white;
+    position: absolute;  
+    left: 87px;
+    top: 1400px;
+    list-style: none;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgba(225, 225, 225, 0.619);
+}
+
+.fot-22 {
+    position: absolute;  
+    left: 104px;
+    top: 1415px;
+    border-radius: 7px;
+}
+
+.big-7 {
+    color: black;
+    font-size: 14px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 104px;
+    top: 1570px;
+    list-style: none;
+}
+
+.mulai-7 {
+    color: rgba(51, 51, 51, 0.68);
+    font-size: 12px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 104px;
+    top: 1595px;
+    list-style: none;
+}
+
+.fot-26 {
+    position: absolute;  
+    left: 104px;
+    top: 1643px;
+    border-radius: 5px;
+}
+
+.jenna-7 {
+    color: black;
+    font-size: 14px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 145px;
+    top: 1643px;
+    list-style: none;
+}
+
+.senior-7 {
+    color: rgba(51, 51, 51, 0.68);
+    font-size: 13px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 145px;
+    top: 1662px;
+    list-style: none;
+}
+
+.fot-7_7 {
+    position: absolute;  
+    left: 104px;
+    top: 1688px;
+}
+
+
+.kosong_9 {
+    width: 280px;
+    height: 328px;
+    background-color: white;
+    position: absolute;  
+    left: 410px;
+    top: 1400px;
+    list-style: none;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgba(225, 225, 225, 0.619);
+}
+
+.fot-23 {
+    position: absolute;  
+    left: 427px;
+    top: 1415px;
+    border-radius: 7px;
+}
+
+.big-8 {
+    color: black;
+    font-size: 14px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 427px;
+    top: 1570px;
+    list-style: none;
+}
+
+.mulai-8 {
+    color: rgba(51, 51, 51, 0.68);
+    font-size: 12px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 427px;
+    top: 1595px;
+    list-style: none;
+}
+
+.fot-25 {
+    position: absolute;  
+    left: 427px;
+    top: 1643px;
+    border-radius: 5px;
+}
+
+.jenna-8 {
+    color: black;
+    font-size: 14px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 470px;
+    top: 1643px;
+    list-style: none;
+}
+
+.senior-8 {
+    color: rgba(51, 51, 51, 0.68);
+    font-size: 13px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 470px;
+    top: 1662px;
+    list-style: none;
+}
+
+.fot-7_8 {
+    position: absolute;  
+    left: 427px;
+    top: 1688px;
+}
+
+
+.kosong_10 {
+    width: 280px;
+    height: 328px;
+    background-color: white;
+    position: absolute;  
+    left: 735px;
+    top: 1400px;
+    list-style: none;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgba(225, 225, 225, 0.619);
+}
+
+.fot-27 {
+    position: absolute;  
+    left: 752px;
+    top: 1415px;
+    border-radius: 7px;
+}
+
+.big-9 {
+    color: black;
+    font-size: 14px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 752px;
+    top: 1570px;
+    list-style: none;
+}
+
+.mulai-9 {
+    color: rgba(51, 51, 51, 0.68);
+    font-size: 12px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 752px;
+    top: 1595px;
+    list-style: none;
+}
+
+.fot-28 {
+    position: absolute;  
+    left: 752px;
+    top: 1643px;
+    border-radius: 5px;
+}
+
+.jenna-9 {
+    color: black;
+    font-size: 14px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 795px;
+    top: 1643px;
+    list-style: none;
+}
+
+.senior-9 {
+    color: rgba(51, 51, 51, 0.68);
+    font-size: 13px;  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;  
+    left: 795px;
+    top: 1662px;
+    list-style: none;
+}
+
+.fot-7_9 {
+    position: absolute;  
+    left: 752px;
+    top: 1688px;
+}
+
+
+/* page 3 */
+
+.fot-29 {
+    position: absolute;  
+    left: 90px;
+    top: 1780px;    
+}
+
+
+/* footer */
+
+.footer {
+    background-color: white;
+    width: 100%;
+    height: 520px;
+    position: absolute;
+    top: 2200px;
+    border-top-style: solid;
+    border-color: rgba(190, 190, 190, 0.32);
+}
+
+.fot-30 {
+    position: absolute;
+    left: 96px;
+    top: 80px;
+}
+
+.kacang {
+    background-color: rgba(240, 239, 239, 0.776);
+    width: 1070px;
+    height: 4px;
+    position: absolute;
+    left: 96px;
+    top: 380px;
+    border-radius: 5px;
+    list-style: none;
+}
+
+.fot-31 {
+    position: absolute;
+    left: 96px;
+    top: 410px;
+}
+
+
+
+/* trash mobile */
+.fot_mob-3 {    
+    display: none;        
+}
+
+.pen-mob {
+    display: none;
+}
+
+.kosong_mob-2 {
+    display: none;
+}
+
+.no-1 {
+    display: none;        
+}
+
+.kosong_mob-3 {
+    display: none;
+}
+
+.fot_mob-4 {
+    display: none;
+}
+
+.big-mob {
+    display: none;
+}
+
+.fot_mob-5 {
+    display: none;    
+}
+
+.jenna-mob-1 {
+    display: none;        
+}
+
+.senior-mob-1 {
+    display: none;
+}
+
+.fot_mob-7 {
+    display: none;
+}
+
+.big-mob {
+    display: none;
+}
+
+.no-2 {
+    display: none;    
+}
+
+.no-3 {
+    display: none;    
+}
+
+.no-4 {
+    display: none;    
+}
+
+.no-5 {
+    display: none;    
+}
+
+.no-6 {
+    display: none;    
+}
+
+.no-7 {
+    display: none;    
+}
+
+.no-8 {
+    display: none;    
+}
+
+.no-9 {
+    display: none;    
+}
+
+.fot_mob-6 {
+    display: none;    
+}
+
+.footer-mob {
+    display: none;    
+}
+
+.kosong_mob-4 {
+    display: none;    
+}
+
+.fot_mob-8 {
+    display: none;    
+}
